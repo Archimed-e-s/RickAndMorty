@@ -1,0 +1,24 @@
+PODS:
+  - DropDown (2.3.13)
+  - R.swift (7.3.2)
+  - SwiftLint (0.54.0)
+
+DEPENDENCIES:
+  - DropDown
+  - R.swift (~> 7.3)
+  - SwiftLint (~> 0.50)
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - R.swift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  SwiftLint: c1de071d9d08c8aba837545f6254315bc900e211
+
+PODFILE CHECKSUM: 810db9ab11f52e92c3d766d3b070d639a134c5e3
+
+COCOAPODS: 1.15.2
